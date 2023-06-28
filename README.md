@@ -4,4 +4,4 @@
 
 ### Основной язык программирования
 
-<img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-dark?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white" />
