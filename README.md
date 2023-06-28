@@ -8,6 +8,5 @@
 
 ### Умею работать с базами данных формата
 
-<img src="https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white" />
-
+<img src="https://img.shields.io/badge/sqlite-orange?style=for-the-badge&logo=sqlite&logoColor=white" />
 ```test```
